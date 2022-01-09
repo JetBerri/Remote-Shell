@@ -3,7 +3,7 @@ __Not tested in Windows and Termux__
 
 Clone the repo:
 ```
-git clone
+git clone https://github.com/0xStevenson/Remote-Shell.git
 ```
 Go to the directory:
 ```
