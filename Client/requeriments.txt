@@ -1,0 +1,6 @@
+colorama
+coreapi
+subprocess
+socket
+datetime
+
